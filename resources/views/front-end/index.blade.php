@@ -8,7 +8,7 @@
 		<meta name="author" content="">
 		<link rel="icon" href="{{ asset('images/favicon.ico') }}">
 
-		<title>EduAdmin - Dashboard</title>
+		<title>Rekrutmen CHD Power Plant</title>
 
 		<!-- Vendors Style -->
 		<link rel="stylesheet" href="{{ asset('css/vendors_css.css') }}">
