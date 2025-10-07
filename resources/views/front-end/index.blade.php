@@ -308,10 +308,10 @@
 							</ul>
 						</div>
 					</div>					
-					<div class="col-lg-6 col-12 ">
+					<div class="col-lg-6 col-12 mb-30">
                         <h4 class="footer-title">Our Gallery</h4>
                         <hr class="bg-primary mb-10 mt-0 d-inline-block mx-auto w-60">
-                        <div class="popup-gallery">
+                        <div class="popup-gallery ">
                                 <a href="{{asset('images/banner/banner-chd (1).jpg')}}" >
                                     <img src="{{asset('images/banner/banner-chd (1).jpg')}}" width="32.5%" alt="" />
                                 </a>
