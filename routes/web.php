@@ -4,11 +4,11 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\LandingPageController;
 
 Route::get('/', function () {
-    return redirect('/maintenance');
+    return redirect('/');
 });
 
 Route::get('/chd', function () {
-    return redirect('/maintenance');
+    return redirect('/');
 });
 
 // Route::get('/', function () {
