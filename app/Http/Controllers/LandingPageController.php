@@ -7,6 +7,11 @@ use Illuminate\Http\Request;
 class LandingPageController extends Controller
 {
     // Method untuk menampilkan landing page
+    public function maintenace()
+    {
+        return view('maintenance');
+    }
+
     public function index()
     {
         // Bisa kirim data ke blade jika perlu

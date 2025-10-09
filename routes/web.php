@@ -14,4 +14,6 @@ Route::get('/chd', function () {
 // Route::get('/', function () {
 //     return redirect('/chd');
 // });
+Route::get('/', [LandingPageController::class, 'maintenace']);
 Route::get('/chd', [LandingPageController::class, 'index']);
+
